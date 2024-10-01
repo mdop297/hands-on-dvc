@@ -16,6 +16,7 @@
 - > `dvc remote modify gdrive gdrive_client_id 'client-id'` 
 
 - > `dvc remote modify gdrive gdrive_client_secret 'client-secret'`
+- untrack file `.dvc/config`
 - Add test user in `OAuth consent screen`
 - >`dvc push`
 - >`rm -rf .dvc/cache`
