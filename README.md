@@ -1,6 +1,6 @@
 # hands-on Data versioning with DVC
 
-- create folder images and images_to_use
+- create directories images and images_to_use, then add some images into these folders
 - >`git init`
 - connect with git repo
 - >`dvc init`
