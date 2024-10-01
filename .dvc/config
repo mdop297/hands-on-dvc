@@ -4,3 +4,4 @@
 ['remote "gdrive"']
     url = gdrive://14CP1hIr2nX_QEs-UXGnDz51RxJa7B5oE
     gdrive_use_service_account = true
+    gdrive_service_account_user_email = lenhatminh12321@gmail.com
